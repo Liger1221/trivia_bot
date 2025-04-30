@@ -1,0 +1,604 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "category": "science",
+            "question": "What gas do plants absorb from the atmosphere?",
+            "options": [
+                "Oxygen",
+                "Nitrogen",
+                "Carbon Dioxide",
+                "Hydrogen"
+            ],
+            "answer": "Carbon Dioxide"
+        },
+        {
+            "id": 2,
+            "category": "science",
+            "question": "What is the chemical symbol for water?",
+            "options": [
+                "O2",
+                "CO2",
+                "H2O",
+                "HO"
+            ],
+            "answer": "H2O"
+        },
+        {
+            "id": 3,
+            "category": "science",
+            "question": "Which part of the plant conducts photosynthesis?",
+            "options": [
+                "Root",
+                "Stem",
+                "Leaf",
+                "Flower"
+            ],
+            "answer": "Leaf"
+        },
+        {
+            "id": 4,
+            "category": "science",
+            "question": "What planet is known as the Red Planet?",
+            "options": [
+                "Earth",
+                "Venus",
+                "Mars",
+                "Jupiter"
+            ],
+            "answer": "Mars"
+        },
+        {
+            "id": 5,
+            "category": "science",
+            "question": "What is the center of an atom called?",
+            "options": [
+                "Electron",
+                "Proton",
+                "Neutron",
+                "Nucleus"
+            ],
+            "answer": "Nucleus"
+        },
+        {
+            "id": 6,
+            "category": "science",
+            "question": "What force keeps us on the ground?",
+            "options": [
+                "Magnetism",
+                "Gravity",
+                "Friction",
+                "Inertia"
+            ],
+            "answer": "Gravity"
+        },
+        {
+            "id": 7,
+            "category": "science",
+            "question": "Which organ pumps blood around the body?",
+            "options": [
+                "Lungs",
+                "Liver",
+                "Heart",
+                "Brain"
+            ],
+            "answer": "Heart"
+        },
+        {
+            "id": 8,
+            "category": "science",
+            "question": "What is the boiling point of water?",
+            "options": [
+                "90\u00b0C",
+                "100\u00b0C",
+                "110\u00b0C",
+                "120\u00b0C"
+            ],
+            "answer": "100\u00b0C"
+        },
+        {
+            "id": 9,
+            "category": "science",
+            "question": "Which gas is most abundant in the Earth\u2019s atmosphere?",
+            "options": [
+                "Oxygen",
+                "Nitrogen",
+                "Carbon Dioxide",
+                "Argon"
+            ],
+            "answer": "Nitrogen"
+        },
+        {
+            "id": 10,
+            "category": "science",
+            "question": "What is the process of water turning into vapor called?",
+            "options": [
+                "Condensation",
+                "Precipitation",
+                "Evaporation",
+                "Sublimation"
+            ],
+            "answer": "Evaporation"
+        },
+        {
+            "id": 11,
+            "category": "geography",
+            "question": "What is the capital city of France?",
+            "options": [
+                "Paris",
+                "London",
+                "Rome",
+                "Berlin"
+            ],
+            "answer": "Paris"
+        },
+        {
+            "id": 12,
+            "category": "geography",
+            "question": "Which continent is the Sahara Desert located on?",
+            "options": [
+                "Asia",
+                "Africa",
+                "Australia",
+                "Europe"
+            ],
+            "answer": "Africa"
+        },
+        {
+            "id": 13,
+            "category": "geography",
+            "question": "What is the longest river in the world?",
+            "options": [
+                "Amazon",
+                "Nile",
+                "Yangtze",
+                "Mississippi"
+            ],
+            "answer": "Nile"
+        },
+        {
+            "id": 14,
+            "category": "geography",
+            "question": "Mount Everest lies in which mountain range?",
+            "options": [
+                "Andes",
+                "Rockies",
+                "Alps",
+                "Himalayas"
+            ],
+            "answer": "Himalayas"
+        },
+        {
+            "id": 15,
+            "category": "geography",
+            "question": "Which ocean is the largest?",
+            "options": [
+                "Atlantic",
+                "Indian",
+                "Pacific",
+                "Arctic"
+            ],
+            "answer": "Pacific"
+        },
+        {
+            "id": 16,
+            "category": "geography",
+            "question": "What country has the most population?",
+            "options": [
+                "India",
+                "USA",
+                "Indonesia",
+                "China"
+            ],
+            "answer": "China"
+        },
+        {
+            "id": 17,
+            "category": "geography",
+            "question": "Which country is known as the Land of the Rising Sun?",
+            "options": [
+                "India",
+                "Japan",
+                "Thailand",
+                "Vietnam"
+            ],
+            "answer": "Japan"
+        },
+        {
+            "id": 18,
+            "category": "geography",
+            "question": "Which U.S. state is the Grand Canyon located in?",
+            "options": [
+                "California",
+                "Nevada",
+                "Arizona",
+                "Utah"
+            ],
+            "answer": "Arizona"
+        },
+        {
+            "id": 19,
+            "category": "geography",
+            "question": "What is the smallest country in the world?",
+            "options": [
+                "Monaco",
+                "Vatican City",
+                "Malta",
+                "San Marino"
+            ],
+            "answer": "Vatican City"
+        },
+        {
+            "id": 20,
+            "category": "geography",
+            "question": "Which river flows through Paris?",
+            "options": [
+                "Seine",
+                "Thames",
+                "Danube",
+                "Rhine"
+            ],
+            "answer": "Seine"
+        },
+        {
+            "id": 21,
+            "category": "math",
+            "question": "What is 7 x 8?",
+            "options": [
+                "54",
+                "56",
+                "58",
+                "60"
+            ],
+            "answer": "56"
+        },
+        {
+            "id": 22,
+            "category": "math",
+            "question": "What is the square root of 64?",
+            "options": [
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "answer": "8"
+        },
+        {
+            "id": 23,
+            "category": "math",
+            "question": "What is 100 divided by 4?",
+            "options": [
+                "25",
+                "20",
+                "30",
+                "15"
+            ],
+            "answer": "25"
+        },
+        {
+            "id": 24,
+            "category": "math",
+            "question": "What is the value of pi (approx)?",
+            "options": [
+                "3.14",
+                "2.17",
+                "3.33",
+                "4.01"
+            ],
+            "answer": "3.14"
+        },
+        {
+            "id": 25,
+            "category": "math",
+            "question": "What is 15% of 200?",
+            "options": [
+                "30",
+                "25",
+                "35",
+                "40"
+            ],
+            "answer": "30"
+        },
+        {
+            "id": 26,
+            "category": "math",
+            "question": "What is the result of 12\u00b2?",
+            "options": [
+                "124",
+                "144",
+                "132",
+                "122"
+            ],
+            "answer": "144"
+        },
+        {
+            "id": 27,
+            "category": "math",
+            "question": "What is the next prime number after 7?",
+            "options": [
+                "8",
+                "9",
+                "10",
+                "11"
+            ],
+            "answer": "11"
+        },
+        {
+            "id": 28,
+            "category": "math",
+            "question": "What is 9 x 6?",
+            "options": [
+                "54",
+                "56",
+                "58",
+                "60"
+            ],
+            "answer": "54"
+        },
+        {
+            "id": 29,
+            "category": "math",
+            "question": "What is 1/2 + 1/4?",
+            "options": [
+                "3/4",
+                "2/3",
+                "1",
+                "5/8"
+            ],
+            "answer": "3/4"
+        },
+        {
+            "id": 30,
+            "category": "math",
+            "question": "What is 3\u00b3?",
+            "options": [
+                "6",
+                "9",
+                "27",
+                "81"
+            ],
+            "answer": "27"
+        },
+        {
+            "id": 31,
+            "category": "history",
+            "question": "Who was the first President of the United States?",
+            "options": [
+                "Abraham Lincoln",
+                "Thomas Jefferson",
+                "George Washington",
+                "John Adams"
+            ],
+            "answer": "George Washington"
+        },
+        {
+            "id": 32,
+            "category": "history",
+            "question": "In what year did World War II end?",
+            "options": [
+                "1942",
+                "1945",
+                "1948",
+                "1950"
+            ],
+            "answer": "1945"
+        },
+        {
+            "id": 33,
+            "category": "history",
+            "question": "Who discovered America?",
+            "options": [
+                "Vasco da Gama",
+                "Christopher Columbus",
+                "James Cook",
+                "Marco Polo"
+            ],
+            "answer": "Christopher Columbus"
+        },
+        {
+            "id": 34,
+            "category": "history",
+            "question": "Which empire built the Colosseum?",
+            "options": [
+                "Greek",
+                "Persian",
+                "Roman",
+                "Ottoman"
+            ],
+            "answer": "Roman"
+        },
+        {
+            "id": 35,
+            "category": "history",
+            "question": "Where was Napoleon Bonaparte born?",
+            "options": [
+                "France",
+                "Italy",
+                "Corsica",
+                "Belgium"
+            ],
+            "answer": "Corsica"
+        },
+        {
+            "id": 36,
+            "category": "history",
+            "question": "What wall divided East and West Germany?",
+            "options": [
+                "Berlin Wall",
+                "Great Wall",
+                "Iron Wall",
+                "European Wall"
+            ],
+            "answer": "Berlin Wall"
+        },
+        {
+            "id": 37,
+            "category": "history",
+            "question": "Who was the British Prime Minister during WWII?",
+            "options": [
+                "Neville Chamberlain",
+                "Winston Churchill",
+                "Margaret Thatcher",
+                "Tony Blair"
+            ],
+            "answer": "Winston Churchill"
+        },
+        {
+            "id": 38,
+            "category": "history",
+            "question": "What year did the Titanic sink?",
+            "options": [
+                "1910",
+                "1912",
+                "1914",
+                "1916"
+            ],
+            "answer": "1912"
+        },
+        {
+            "id": 39,
+            "category": "history",
+            "question": "Which civilization built the pyramids?",
+            "options": [
+                "Romans",
+                "Greeks",
+                "Egyptians",
+                "Mayans"
+            ],
+            "answer": "Egyptians"
+        },
+        {
+            "id": 40,
+            "category": "history",
+            "question": "Who was assassinated in Sarajevo in 1914?",
+            "options": [
+                "Franz Ferdinand",
+                "Abraham Lincoln",
+                "John F. Kennedy",
+                "Gavrilo Princip"
+            ],
+            "answer": "Franz Ferdinand"
+        },
+        {
+            "id": 41,
+            "category": "art",
+            "question": "Who painted the Mona Lisa?",
+            "options": [
+                "Michelangelo",
+                "Raphael",
+                "Leonardo da Vinci",
+                "Van Gogh"
+            ],
+            "answer": "Leonardo da Vinci"
+        },
+        {
+            "id": 42,
+            "category": "art",
+            "question": "What kind of art is Pablo Picasso known for?",
+            "options": [
+                "Cubism",
+                "Impressionism",
+                "Realism",
+                "Surrealism"
+            ],
+            "answer": "Cubism"
+        },
+        {
+            "id": 43,
+            "category": "art",
+            "question": "Where is the Louvre Museum located?",
+            "options": [
+                "London",
+                "New York",
+                "Rome",
+                "Paris"
+            ],
+            "answer": "Paris"
+        },
+        {
+            "id": 44,
+            "category": "art",
+            "question": "Which artist cut off part of his ear?",
+            "options": [
+                "Van Gogh",
+                "Picasso",
+                "Monet",
+                "Da Vinci"
+            ],
+            "answer": "Van Gogh"
+        },
+        {
+            "id": 45,
+            "category": "art",
+            "question": "Who painted the ceiling of the Sistine Chapel?",
+            "options": [
+                "Raphael",
+                "Donatello",
+                "Michelangelo",
+                "Leonardo da Vinci"
+            ],
+            "answer": "Michelangelo"
+        },
+        {
+            "id": 46,
+            "category": "art",
+            "question": "What art style is Salvador Dal\u00ed associated with?",
+            "options": [
+                "Abstract",
+                "Cubism",
+                "Surrealism",
+                "Baroque"
+            ],
+            "answer": "Surrealism"
+        },
+        {
+            "id": 47,
+            "category": "art",
+            "question": "Which famous painting features melting clocks?",
+            "options": [
+                "Starry Night",
+                "The Persistence of Memory",
+                "The Scream",
+                "Girl with a Pearl Earring"
+            ],
+            "answer": "The Persistence of Memory"
+        },
+        {
+            "id": 48,
+            "category": "art",
+            "question": "What is the primary color?",
+            "options": [
+                "Green",
+                "Red",
+                "Purple",
+                "Orange"
+            ],
+            "answer": "Red"
+        },
+        {
+            "id": 49,
+            "category": "art",
+            "question": "What is calligraphy?",
+            "options": [
+                "A type of sculpture",
+                "Decorative handwriting",
+                "A dance form",
+                "A music technique"
+            ],
+            "answer": "Decorative handwriting"
+        },
+        {
+            "id": 50,
+            "category": "art",
+            "question": "Which country is known for origami?",
+            "options": [
+                "China",
+                "Korea",
+                "India",
+                "Japan"
+            ],
+            "answer": "Japan"
+        }
+    ]
+}
